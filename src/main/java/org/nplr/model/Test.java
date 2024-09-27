@@ -1,4 +1,4 @@
-package org.kkbp.model;
+package org.nplr.model;
 
 public class Test {
     private static Test instance = null;
